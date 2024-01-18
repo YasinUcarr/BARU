@@ -72,7 +72,7 @@ Veri gönderimi içinde örnek kod aşağıda verilmiştir.
             ```
 
 # Sensörlerin Çalıştırılması
-
+## Kullanılan sensörler: RS-WS-N01-TR-1 & RK400-01
 DİKKAT! Çalıştıracağınız sensörün datasheetindeki bilgilere bakmayı unutmayın her sensör için farklı değerler kullanılıyor(Örn. Baudrate)
 
 İlk önce çalıştıracağınız sensörü "Modbus Poll" uygulamasında deneyin sensörü test etmek için NOT! RS-485 kullanıyorsanız Windows bilgisayarınızda deneyebilirsiniz
